@@ -67,15 +67,19 @@ Tools, platforms, and services for designing and shipping web apps with AI.
 
 <h4>👉 Feature your product alongside the developers, designers, and vibecoders shipping UI with AI coding agents and web builders.</h4>
 
-[**Become a sponsor →**](https://sponsors.voltagent.dev/#awesome-design-md)
+<sub>Ranked #150 globally on GitHub. A community resource used by developers, designers, and vibecoders.</sub>
 
-<br/>
+<a href="https://sponsors.voltagent.dev/#awesome-design-md"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+
 
 </td>
 </tr>
 </table>
 
 </div>
+
+
+
 
 
 
